@@ -1,8 +1,7 @@
 body {
   margin: 0;
   min-height: 100vh;
-  background: linear-gradient(180deg, rgba(255, 107, 28, 0), rgb(239, 232, 126) 70.71%),
-  linear-gradient(90deg, rgb(0, 255, 128), rgb(248, 85, 85) 70.71%);
+  background: linear-gradient(180deg, rgb(246, 116, 104), rgb(191, 223, 241));
 }
 
 .app-container {
